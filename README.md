@@ -1,2 +1,2 @@
-# mony-datascience-coding-exercise
-Coding exercises for recruitment at MONYGroup
+# MONYGroup Data Science Coding Exercise
+Coding exercises for use in recruitment for the Data Scince team at MONYGroup
